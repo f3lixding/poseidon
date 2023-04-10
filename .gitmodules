@@ -1,0 +1,6 @@
+[submodule "lib/picow_http"]
+	path = lib/picow_http
+	url = https://gitlab.com/slimhazard/picow_http
+[submodule "lib/trident"]
+	path = lib/trident
+	url = https://github.com/f3lixding/trident
